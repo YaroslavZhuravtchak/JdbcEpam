@@ -1,0 +1,16 @@
+2017-09-13 19:16:42,396 [ERROR][ConnectionPool        ] - Failed to get connection
+2017-09-13 19:16:42,396 [ INFO][ConnectionPool        ] - Creating a instance of  ConnectionPool
+2017-09-13 19:17:25,527 [ INFO][ConnectionPool        ] - Connections was successfully created.
+2017-09-13 19:17:25,527 [ INFO][ConnectionPool        ] - Creating a instance of  ConnectionPool
+2017-09-13 19:17:25,668 [ INFO][ConnectionPool        ] - Connections in the amount of 20 pieces successfully closed.
+2017-09-13 19:17:53,768 [ INFO][ConnectionPool        ] - Connections was successfully created.
+2017-09-13 19:17:53,768 [ INFO][ConnectionPool        ] - Creating a instance of  ConnectionPool
+2017-09-13 19:17:53,799 [ INFO][ConnectionPool        ] - Connections in the amount of 20 pieces successfully closed.
+2017-09-13 20:36:59,083 [ INFO][ConnectionPool        ] - Connections was successfully created.
+2017-09-13 20:36:59,083 [ INFO][ConnectionPool        ] - Creating a instance of  ConnectionPool
+2017-09-13 20:36:59,129 [ INFO][ConnectionPool        ] - Connections in the amount of 20 pieces successfully closed.
+2017-09-13 20:38:41,035 [ INFO][ConnectionPool        ] - Connections was successfully created.
+2017-09-13 20:38:41,035 [ INFO][ConnectionPool        ] - Creating a instance of  ConnectionPool
+2017-09-13 20:38:41,160 [DEBUG][TaskDAO               ] - Task deleted
+2017-09-13 20:38:41,223 [DEBUG][EmployeeDAO           ] - Employee deleted
+2017-09-13 20:38:41,223 [ INFO][ConnectionPool        ] - Connections in the amount of 20 pieces successfully closed.
